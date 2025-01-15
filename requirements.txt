@@ -1,0 +1,10 @@
+
+streamlit 
+streamlit-chat 
+Pypdf
+langchain-core
+langchain-community
+sentence-transformers 
+qdrant-client
+langchain-qdrant 
+langchain-google-genai
