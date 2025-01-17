@@ -6,11 +6,11 @@ Create a question-answering system that can understand, and answer questions bas
 The system should use LangChain and RAG (RetrievalAugmented Generation) to provide accurate answers based on the document content. <br>
 Project Goals
 
-1. Build a working prototype that can:
+1. Build a working prototype that can: <br>
   A. Read and process PDF documents <br>
   B. Answer questions based on the document content <br>
   C. Provide relevant responses using RAG architecture <br>
-2. Learn key concepts:
+2. Learn key concepts: <br>
    A. Document processing with LangChain <br>
    B. Vector embeddings <br>
    C. RAG architecture <br>
