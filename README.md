@@ -19,7 +19,7 @@ Project Goals
 # Prerequisites:
 - Python 3.9+ installed <br>
 ## Installation:
-Dependancies:
+To install dependancies:
 ```
 pip install -r requirements.txt
 ```
@@ -27,4 +27,11 @@ pip install -r requirements.txt
 To run:
 ```
 streamlit run app.py
+```
+# Notes:
+Update ```secrets.toml` file in ```.streamlit```
+```
+QDRANT_API_KEY = YOUR API KEY
+QDRANT_URL=YOUR API KEY
+GEMINI_API_KEY = YOUR API KEY
 ```
