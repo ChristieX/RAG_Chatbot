@@ -86,7 +86,7 @@ if uploaded_file:
         embed_model,
         url=st.secrets["QDRANT_URL"],
         api_key=st.secrets["QDRANT_API_KEY"],
-        collection_name="Urdu_doc",
+        collection_name="RAG_chatbot",
         prefer_grpc=True,
         force_recreate=True
     )
