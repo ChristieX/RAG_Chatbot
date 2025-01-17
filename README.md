@@ -29,7 +29,7 @@ To run:
 streamlit run app.py
 ```
 # Notes:
-Update ```secrets.toml` file in ```.streamlit```
+Update ```secrets.toml``` file in ```.streamlit```
 ```
 QDRANT_API_KEY = YOUR API KEY
 QDRANT_URL=YOUR API KEY
