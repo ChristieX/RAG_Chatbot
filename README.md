@@ -32,6 +32,6 @@ streamlit run app.py
 Update ```secrets.toml``` file in ```.streamlit```
 ```
 QDRANT_API_KEY = YOUR API KEY
-QDRANT_URL=YOUR API KEY
+QDRANT_URL=YOUR QDRANT URL
 GEMINI_API_KEY = YOUR API KEY
 ```
